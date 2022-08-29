@@ -1,25 +1,4 @@
 "/Applications/CLion 2.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /Users/arlynlinettemedinagarcia/CLionProjects/002-pointers -B /Users/arlynlinettemedinagarcia/CLionProjects/002-pointers/cmake-build-debug
--- The C compiler identification is AppleClang 13.0.0.13000029
--- The CXX compiler identification is AppleClang 13.0.0.13000029
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc - skipped
--- Detecting C compile features
--- Detecting C compile features - done
--- Detecting CXX compiler ABI info
--- Detecting CXX compiler ABI info - done
--- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++ - skipped
--- Detecting CXX compile features
--- Detecting CXX compile features - done
--- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
-CMake Error at /Applications/CLion 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake:230 (message):
-  Could NOT find Criterion (missing: CRITERION_LIBRARY CRITERION_INCLUDE_DIR)
-Call Stack (most recent call first):
-  /Applications/CLion 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake:594 (_FPHSA_FAILURE_MESSAGE)
-  tests/cmake/Modules/FindCriterion.cmake:24 (find_package_handle_standard_args)
-  tests/CMakeLists.txt:6 (find_package)
-
-
--- Configuring incomplete, errors occurred!
-See also "/Users/arlynlinettemedinagarcia/CLionProjects/002-pointers/cmake-build-debug/CMakeFiles/CMakeOutput.log".
-See also "/Users/arlynlinettemedinagarcia/CLionProjects/002-pointers/cmake-build-debug/CMakeFiles/CMakeError.log".
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/arlynlinettemedinagarcia/CLionProjects/002-pointers/cmake-build-debug

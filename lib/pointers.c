@@ -11,18 +11,17 @@ int bubble_sort(int *collection, int count)
 
     for (int i = 0; i < count; i++)
     {
-        for (int j = 0; j < count-1-i; j++)
+        for (int j = i; j < count; j++)
         {
-            if (*(collection+j)>*(collection+j+1))
+            if (*(collection+i)>*(collection+j))
             {
-                int pivot = *(collection+j);
-                *(collection+j) = *(collection+j+1);
-                *(collection+j+1) = pivot;
-                times +=1;
+                int pivot = *(collection+i);
+                *(collection+i) = *(collection+j);
+                *(collection+j) = pivot;
+                times++;
             }
         }
     }
-
     return times;
 }
 

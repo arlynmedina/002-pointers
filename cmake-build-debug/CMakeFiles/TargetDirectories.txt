@@ -1,0 +1,8 @@
+/Users/arlynlinettemedinagarcia/CLionProjects/002-pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arlynlinettemedinagarcia/CLionProjects/002-pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/arlynlinettemedinagarcia/CLionProjects/002-pointers/cmake-build-debug/lib/CMakeFiles/pointers.dir
+/Users/arlynlinettemedinagarcia/CLionProjects/002-pointers/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
+/Users/arlynlinettemedinagarcia/CLionProjects/002-pointers/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
+/Users/arlynlinettemedinagarcia/CLionProjects/002-pointers/cmake-build-debug/app/CMakeFiles/app.dir
+/Users/arlynlinettemedinagarcia/CLionProjects/002-pointers/cmake-build-debug/app/CMakeFiles/edit_cache.dir
+/Users/arlynlinettemedinagarcia/CLionProjects/002-pointers/cmake-build-debug/app/CMakeFiles/rebuild_cache.dir
